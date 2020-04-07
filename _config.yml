@@ -1,5 +1,3 @@
-theme: jekyll-theme-midnight
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -8,6 +6,7 @@ theme: jekyll-theme-midnight
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+theme                    : jekyll-theme-midnight
 locale                   : "en-US"
 title                    : "Cody White"
 title_separator          : "-"
