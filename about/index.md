@@ -1,4 +1,4 @@
-Welcome to my personal blogging site.
+=Welcome to my personal blogging site=
 
 This site features my hobbies and skills from both my personal gaming career and my professional technical career.  I will be posting some technical coding that I have created over the years that I have found useful for learning and to help with progress in my applications and scripts. I will also be posting about my gaming achievements when I feel they are good enough to share with my peers… this is not a frequent occurrence.
 Technical Background
