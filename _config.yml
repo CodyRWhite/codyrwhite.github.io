@@ -1,1 +1,21 @@
 theme: jekyll-theme-midnight
+
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Cody White"
+title_separator          : "-"
+name                     : &name "Cody White"
+description              : &description "My personal Blog"
+url                      : https://codyrwhite.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "CodyRWhite/codyrwhite.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
