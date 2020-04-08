@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Installing and configuring RancherServer on RancherOS"
 date: 2015-05-13 #hh:mm:ss -0000
 categories: Docker FreeNAS RancherOS RancherServer
