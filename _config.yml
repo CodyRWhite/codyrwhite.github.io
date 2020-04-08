@@ -120,16 +120,33 @@ author:
   wikipedia        :
 
 
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      comments: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      comments: false
+      
 # Reading Files
-include:
-  - .htaccess
-exclude:
-  - CHANGELOG
-  - LICENSE
-  - README
-keep_files:
-  - .git
-  - .svn
+#include:
+#  - .htaccess
+#exclude:
+#  - CHANGELOG
+#  - LICENSE
+#  - README
+#keep_files:
+#  - .git
+#  - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
