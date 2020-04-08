@@ -119,24 +119,7 @@ author:
   youtube          :
   wikipedia        :
 
-
-# Front matter defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post
-      comments: true
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page
-      comments: false
-      
+     
 # Reading Files
 #include:
 #  - .htaccess
