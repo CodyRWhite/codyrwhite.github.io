@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-remote_theme             : benbalter/retlab
-#theme                    : jekyll-theme-midnight
+#remote_theme             : benbalter/retlab
+theme                    : jekyll-theme-midnight
 locale                   : "en-US"
 title                    : "Cody White"
 title_separator          : "-"
