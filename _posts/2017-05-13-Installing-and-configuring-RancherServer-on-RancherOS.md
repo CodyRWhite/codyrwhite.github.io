@@ -1,8 +1,9 @@
+---
 layout: page
 title: "Installing and configuring RancherServer on RancherOS"
 date: 2015-05-13 #hh:mm:ss -0000
 categories: Docker FreeNAS RancherOS RancherServer
-
+---
 
 
 To install Rancher Server run the following command from your RancherOS installation.
