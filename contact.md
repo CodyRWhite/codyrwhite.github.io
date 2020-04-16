@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Content"
+title: "Contact"
+permalink: /contact/
 ---
 
 test
