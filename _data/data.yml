@@ -1,0 +1,202 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+    location: 'Ontario, Canada'
+    # Profile information
+    name: Cody White
+    tagline: Network Security Specialist
+    avatar: avatar100x100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: codywhite_cv@icloud.com
+    phone: #324651434
+    website: codywhite.me #do not add http://
+    linkedin: codyrwhite
+    github: codyrwhite
+    gitlab:
+    bitbucket:
+    twitter: '@CodyWhite_'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Native
+
+    interests:
+      - item: Infosec
+        link:
+
+      - item: Hockey
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Innovative, experienced and knowledgeable Data Analyst & Security Specialist.
+      Work well independently or in a group setting providing all facets of technology 
+      support including troubleshooting, installations, maintenance, and security. 
+      Strong multitasking abilities and analytical skills. Able to maximize the strengths 
+      of myself and others. Skilled in numerous software packages and operating systems as 
+      well as a variety of technological devices.  A broad understanding of computer hardware 
+      including PCs, Macs, tablets, and smartphones.  Able to easily identify and resolve 
+      technical issues and concerns.  Consistently monitoring for new information applicable 
+      to the role and connecting it to current uses.  Excellent communication skills.
+education:
+    - degree: NISS - Network & Internet Security Specialist
+      university: CDI / Everest College
+      time: 2007 - 2008
+      details: |
+        The Network & Internet Security Specialist program gives students a 
+        strong foundation in operating and implementing computer services, which 
+        are both growing areas in the IT industry. Students gain hands-on instruction
+        on how to plan, support, administer, and secure networked computer 
+        systems and their users.
+          - Cisco Certified Network Associate (CCNA),
+          - Computing Technology Industry Association (CompTIA) A+,
+          - Computing Technology Industry Association (CompTIA) Network+,
+          - Computing Technology Industry Association (CompTIA) Security+,
+          - Microsoft Certified Systems Administrator (MCSA),
+          - Microsoft Certified Professional (MCP),
+          - Microsoft Certified Database Administrator (MCDBA)Bullet point
+experiences:
+    - role: Data Analyst & Security Specialist
+      time: 2015 - Present
+      company: Circuit Check Inc. // Burlington, Ontario
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Systems Analyst and Network Support
+      time: 2012 - 2015
+      company: Circuit Check Inc. // Burlington, Ontario
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Network Administration
+      time: 2007 - 2012
+      company: CIMTEK Ltd. - Acquired by Circuit Check // Burlington, Ontario
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Engineering Services
+      time: 2010 - 2012
+      company: CIMTEK Ltd. - Acquired by Circuit Check // Burlington, Ontario
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Service Support Technician
+      time: 2008 - 2010
+      company: CIMTEK Ltd. - Acquired by Circuit Check // Burlington, Ontario
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Production Technician
+      time: 2007 - 2008
+      company: CIMTEK Ltd. - Acquired by Circuit Check // Burlington, Ontario
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+accomplishments:
+    - course: "Crystal Reports: Report Design I"
+      time: 2012
+      breif: BOC310
+    - course: IFS Foundation 1 Administration
+      time: 2018
+      breif: 
+      
+projects:
+    title: Projects
+    #intro: >
+    #  You can list your side projects or open source libraries in this
+    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Epicor MRP/ERP Migration
+        link: #"#hook"
+        tagline: "Feb 2013 – Apr 2014 <br/>This was a quick ERP migration for our organization with the purpose of consolidating the CIMTEK organization with our parent company and improve efficiency as a whole within the organization. During this transition, I had to step outside of my comfort zone and had to learn a lot about finance. Our goal was to roll out the workflow provided by our parent company and adapt our processes to match. My main focus at first was the extraction of data from our older system and translate for import into the new system. In order to make the translation successful, I had to learn about not only how the financial information flowed through the system but also the operational side of the organization. Once a new workflow had been developed I was tasked with entering sample data through the environment and generate an analysis of the financial impact and operations load impact. I was later asked to generate the export scripts for active projects and provide that data to another team for data entry into the new system. "
+
+# publications:
+    # title: Publications
+    # intro: |
+      # You can list your publications in this section. Lorem ipsum dolor sit
+      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      # bibendum fringilla a eu lectus.
+    # papers:
+      # - title: The Art of Computer Programming
+        # link: "#"
+        # authors: Donald E. Knuth
+        # conference: Addison-Wesley, 1968
+
+# skills:
+    # title: Skills &amp; Proficiency
+
+    # toolset:
+      # - name: Python & Django
+        # level: 98%
+
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+
