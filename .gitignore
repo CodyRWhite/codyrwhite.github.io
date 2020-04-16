@@ -3,3 +3,4 @@ _site/
 .jekyll-metadata
 CNAME
 site.webmanifest
+_config.yml
