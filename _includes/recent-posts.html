@@ -1,0 +1,30 @@
+<div class="recent-post-container"><!-- Recent Posts -->
+	{% for post in site.posts %}
+    <div class="recent-post-summary-container"><!-- Item Summary -->
+        <!-- Thumbnail -->
+        <div class="recent-post-thumbnail-outer-container">
+            <a class="" href="/blog/i-passed-the-google-technical-interviews-you-can-too">
+                <div class="recent-post-thumbnail-inner-container">
+                    <!-- Main Image -->
+                    <img class="recent-post-thumbnail-image" src="" alt="" />
+                </div>
+            </a>
+        </div>
+        <div class="recent-post-summary-title-container"><!-- Item Content -->
+            <!-- Title -->
+            <div class="">
+                <a href="{{ post.url }}" class=" " style=" ">{{ post.title }}</a>
+			</div>			
+            <!-- Excerpt -->
+            <div class="recent-post-summary-excerpt-container">
+                <p class="recent-post-summary-excerpt">{{ post.excerpt }}</p>
+            </div>
+            <!-- Post Date -->
+			<div class="recent-post-summary-date-container">
+				<!-- Timestamp -->
+				<time class="" datetime="2020-04-16">{{ post.date }}</time>
+			</div>
+        </div><!-- Item Content -->
+    </div><!-- Item Summary -->
+	{% endfor %}
+</div><!-- Recent Posts -->
