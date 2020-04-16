@@ -2,17 +2,13 @@
 	<h2 class="container-block-title">	Menu	</h2>
 	<ul class="list-unstyled interests-list">
 		<li><i class="fas fa-circle fa-xs"></i>
-			Home
-		</li>
+			<a href="{{ site.url }}">Home</a>
+		</li>	
+		{% for page in site.pages %}
 		<li><i class="fas fa-circle fa-xs"></i>
-			About
+			<a href="{{ page.url }}">{{ page.title }}</a>
 		</li>
-		<li><i class="fas fa-circle fa-xs"></i>
-			Blogs
-		</li>
-		<li><i class="fas fa-circle fa-xs"></i>
-			Contact
-		</li>
+		{% endfor %}
 		<li><i class="fas fa-circle fa-xs"></i>
 			<a href="/online-cv"> CV </a>
 		</li>
