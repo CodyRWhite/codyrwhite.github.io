@@ -1,8 +1,10 @@
 ---
 layout: post
+permalink: /blog/2017/05/13/Installing-Rancher-OS-on-FreeNAS-11/
 title: "Installing Rancher OS on FreeNAS 11"
 image: "https://image.slidesharecdn.com/rancheros-170731045638/95/rancher-os-a-simplified-linux-distribution-built-from-containers-for-containers-1-638.jpg?cb=1501477377"
 date: "2017-05-11 12:53:08"
+author: "Cody White"
 ---
 <h1>Installing Rancher OS on FreeNAS 11</h1>
 

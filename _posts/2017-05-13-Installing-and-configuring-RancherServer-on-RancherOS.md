@@ -1,8 +1,10 @@
 ---
 layout: post
+permalink: /blog/2017/05/13/Installing-and-configuring-RancherServer-on-RancherOS/
 title: "Installing and configuring RancherServer on RancherOS"
 image: "https://image.slidesharecdn.com/rancheros-170731045638/95/rancher-os-a-simplified-linux-distribution-built-from-containers-for-containers-1-638.jpg?cb=1501477377"
 date: "2017-05-13 15:05:37"
+author: "Cody White"
 ---
 <h1>Installing and configuring RancherServer on RancherOS</h1>
 
