@@ -3,7 +3,7 @@
 # Site Settings
 title: Cody White's Blog
 url: 'https://codywhite.me'
-baseurl: '/' #change it according to your repository name
+baseurl: '' #change it according to your repository name
 description: A place to collect all of my work plus more.
 favicon: true ##Generate and upload files to root - https://favicon.io/favicon-converter/
 fluid_icon: 'https://avatars3.githubusercontent.com/u/56890437?s=96&v=4'

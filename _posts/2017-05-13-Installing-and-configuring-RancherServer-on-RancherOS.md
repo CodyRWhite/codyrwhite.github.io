@@ -2,15 +2,14 @@
 layout: post
 title: "Installing and configuring RancherServer on RancherOS"
 image: "https://image.slidesharecdn.com/rancheros-170731045638/95/rancher-os-a-simplified-linux-distribution-built-from-containers-for-containers-1-638.jpg?cb=1501477377"
-date: "2019-02-02"
+date: "2017-05-13 15:05:37"
 ---
-
+<h1>Installing and configuring RancherServer on RancherOS</h1>
 
 To install Rancher Server run the following command from your RancherOS installation.
-
-sudo docker run -d --restart=unless-stopped -p 8080:8080 rancher/server
-
-Once the install process has completed wait a couple minutes while the OS boots and then you can browse to the website. Use the RancherOS IP address and port 8080. Once the site had loaded and you click Got It. There will be a warning about adding a host. Click Add a host. From there just click save, this is just letting you know that the IP address of your host is not public are you sure you want to continue. Rancher Server expects to be public and usually run in the Cloud so other RancherOS’s can all connect to the server. In this example, we are installing the server as a docker inside of the Rancher OS we are going to manage with the Server.
+<pre lang="bash">sudo docker run -d --restart=unless-stopped -p 8080:8080 rancher/server
+</pre>
+Once the install process has completed wait a couple minutes while the OS boots and then you can browse to the website. Use the RancherOS IP address and port 8080. Once the site had loaded and you click Got It. There will be a warning about adding a host. Click Add a host. From there just click save, this is just letting you know that the IP address of your host is not public are you sure you want to continue. Rancher Server expects to be public and usually run in the Cloud so other RancherOS's can all connect to the server. In this example, we are installing the server as a docker inside of the Rancher OS we are going to manage with the Server.
 
 Then follow the next steps to install the Rancher Server Agent on the RancherOS installation. I normally leave everything as it is and just paste step 5 into the ssh for the RancherOS. Once the agent has come online and authenticated with the server the warning at the top will disappear.
 
